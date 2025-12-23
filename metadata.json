@@ -1,0 +1,5 @@
+{
+  "name": "Appscrip Product Listing Page",
+  "description": "A high-performance, SEO-optimized Product Listing Page (PLP) built with React, Tailwind CSS, and TypeScript, featuring a responsive design and mock data integration from FakeStoreAPI.",
+  "requestFramePermissions": []
+}
